@@ -29,10 +29,10 @@
 ---
 
 ### 🚀 Getting Started
-git clone https://github.com/yourusername/piczzle.git
+```git clone https://github.com/GabrielaBujor/Piczzle.git
 cd piczzle
 flutter pub get
-flutter run
+flutter run```
 ---
 
 ### 📜 License
