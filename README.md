@@ -29,10 +29,13 @@
 ---
 
 ### 🚀 Getting Started
-```git clone https://github.com/GabrielaBujor/Piczzle.git
+```` ```bash ````
+git clone https://github.com/GabrielaBujor/Piczzle.git
 cd piczzle
 flutter pub get
-flutter run```
+flutter run
+```` ``` ````
+
 ---
 
 ### 📜 License
