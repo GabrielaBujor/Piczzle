@@ -28,16 +28,6 @@
 
 ---
 
-### 🚀 Getting Started
-```` ```bash ````
-git clone https://github.com/GabrielaBujor/Piczzle.git
-cd piczzle
-flutter pub get
-flutter run
-```` ``` ````
-
----
-
 ### 📜 License
 
 This project is licensed under the MIT License — feel free to use and modify it.
@@ -47,3 +37,12 @@ This project is licensed under the MIT License — feel free to use and modify i
 ### 💬 About
 
 Piczzle is a personal project built to combine creativity and logic — turning everyday photos into fun puzzles to play anytime.
+
+---
+
+### 🚀 Getting Started
+````bash
+git clone https://github.com/GabrielaBujor/Piczzle.git
+cd piczzle
+flutter pub get
+flutter run
